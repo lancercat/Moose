@@ -1,0 +1,6 @@
+{
+  "log_root" : "/home/xxx/hydra_logs/",
+  "save_root":"/home/xxx/hydra_saves/",
+  "data_root": "/home/xxx/ssddata/",
+  "devices": ["cuda:0"]
+}

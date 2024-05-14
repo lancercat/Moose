@@ -1,0 +1,5 @@
+{
+  "save_root": "C:/Users/simcor/dev/logs/mose/model/",
+  "data_root": "C:/Users/simcor/dev/data/mose/ssddata/",
+  "wandbdir": "C:/Users/simcor/dev/logs/wandb"
+}

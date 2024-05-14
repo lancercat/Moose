@@ -1,0 +1,3 @@
+dataset_name: SP-DocVQA
+imdb_dir: /run/media/lasercat/f3a1698e-80ad-4473-8fc6-4df8c81c3831/ssddata/docvqasp_imdb/  # /imdb/collection/imdb_train.npy
+images_dir: /run/media/lasercat/f3a1698e-80ad-4473-8fc6-4df8c81c3831/ssddata/docvqasp/

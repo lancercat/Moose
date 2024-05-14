@@ -1,0 +1,5 @@
+{
+  "save_root":"/home/lasercat/hydra_saves/",
+  "data_root": "/home/lasercat/ssddata/",
+  "devices": ["cpu"]
+}
