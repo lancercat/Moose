@@ -3,6 +3,7 @@
 This repository is the author's implementation of the paper MOoSE: Multi-Orientation Sharing Experts for Open-set Scene Text Recognition.
 
 The repo implements a Multi-Orientation Sharing Experts framework that allows you to handle seen and unseen scene text written in various orientations.
+![framework](https://github.com/lancercat/Moose/assets/59994105/5aad128f-741e-4210-86a1-29575f80a8b0)
 
 
 ## Getting Started
@@ -51,6 +52,7 @@ used for autonomous monitoring, issuing commands to, and collecting results from
 
 ## Results & Manual
 The Results and a detailed manual is included in the manul.pdf file.
+![moostr-gzsl-remix](https://github.com/lancercat/Moose/assets/59994105/7208ba0a-a86c-4f46-a7e1-9c29f42877fe)
 
 (The filename is an intended pun, manuals, aka Pallas cats, are the oldest cats)
 
