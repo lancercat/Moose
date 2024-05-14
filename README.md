@@ -96,6 +96,6 @@ This section lists the correspondences between names in the paper and codenames 
 - - yukon_sharebbn_62_ld_long_XL
 
 ## Contact
-- Chang lasercat@gmx.us, chang.liu@ltu.se
+- Chang Liu lasercat@gmx.us, chang.liu@ltu.se
 - Simon Corbillé simon.corbille@associated.ltu.se
 - Elisa H. Barney Smith elisa.barney@ltu.se
