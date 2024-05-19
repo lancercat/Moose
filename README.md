@@ -63,7 +63,7 @@ used for autonomous monitoring, issuing commands to, and collecting results from
 The Results and a detailed manual is included in the manul.pdf file.
 ![moostr-gzsl-remix](https://github.com/lancercat/Moose/assets/59994105/7208ba0a-a86c-4f46-a7e1-9c29f42877fe)
 
-(The filename is an intended pun, manuals, aka Pallas cats, are the oldest cats)
+(The filename is an intended pun, manuls, aka Pallas cats, are the oldest cats)
 
 
 ## Code
