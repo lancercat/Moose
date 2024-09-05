@@ -1,8 +1,10 @@
 # MOoSE: Multi-Orientation Sharing Experts for Open-set Scene Text Recognition
 
-This repository is the authors' implementation of the paper, and also serves as the first release of the NG framework
+This repository is the authors' implementation of the paper
 
 MOoSE: Multi-Orientation Sharing Experts for Open-set Scene Text Recognition.
+
+The repo also serves as the first release of the NG framework
 
 
 ![ostr101](https://github.com/lancercat/Moose/assets/59994105/4d549996-6a33-4fc2-a481-c813eb083061)
